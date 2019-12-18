@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "cjw",
+  "usingComponents": {
+    "uni-swiper-dor": "/components/uni-swiper-dot/uni-swiper-dot",
+    "mix-pulldown-refresh": "/components/mix-refresh/mix-pulldown-refresh"
+  }
+}
